@@ -12,5 +12,5 @@ He is chiller than that Gibson, Antsnownio.
 
 <p>
 The memes he doth provide to Slack <br>
-Are only rivaled by beloved Talk of the Smack 
+Are only rivaled by his famous Talk of the Smack 
 </p>
