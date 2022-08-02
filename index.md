@@ -7,7 +7,7 @@ Which may be younger than thou
 
 <p>
 He programs AI at a Game Studio, <br>
-And he can be as chill as that Gibson, Antsnownio.
+He is chiller than that Gibson, Antsnownio.
 </p>
 
 <p>
