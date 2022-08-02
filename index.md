@@ -1,10 +1,16 @@
 ### A Brief Poem
 
-He is a mere twenty-two now,
+<p>
+He is a mere twenty-two now, <br>
 Which may be younger than thou
+</p>
 
-He programs AI at a Game Studio,
+<p>
+He programs AI at a Game Studio, <br>
 And he can be as chill as that Gibson, Antsnownio.
+</p>
 
-The memes he doth provide to Slack
+<p>
+The memes he doth provide to Slack <br>
 Are only rivaled by beloved Talk of the Smack 
+</p>
