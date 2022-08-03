@@ -2,8 +2,9 @@
 
 <p>
 To destroyeth a home league, <br>
-one needeth not be as cunning as thee.
-Listen now with great intrigue,
+one needeth not be as cunning as thee. <br>
+  
+Listen now with great intrigue, <br>
 as I tell you the legend of one who is _definitely_ not me.
 </p>
 
