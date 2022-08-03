@@ -13,12 +13,12 @@ but he understands thine movie references. &#128253;
 
 
 He writes code for AI at a Game Studio, <br>
-but is chiller than that Gibson, Antsnownio, &#127847;<br>
-for a draft order, he has no preferences. 
+but is chiller than that Gibson, Antsnownio, <br>
+for a draft order, he has no preferences. &#127847;
 
 The memes he doth provide to Slack, <br>
-are only rivaled by his famous Talk of the Smack, &#9997;<br>
-and his name is Tyler Hansen.
+are only rivaled by his famous Talk of the Smack, <br>
+and his name is Tyler Hansen. &#9997;
 
 Thou must be careful if he recieveth an invite, <br>
 because his fantasy teams have been known to fight, <br>
