@@ -17,7 +17,7 @@ But he understands thine movie references.
 
 <p>
 He programs AI at a Game Studio, <br>
-and is chiller than that Gibson, Antsnownio, <br>
+but is chiller than that Gibson, Antsnownio, <br>
 for a draft order, he has no preferences. 
 </p>
 
