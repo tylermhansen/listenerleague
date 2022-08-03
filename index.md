@@ -11,13 +11,13 @@ as I tell you the legend of one who is <i>definitely</i> not me.
 
 <p>
 That gent is a mere twenty-two now, <br>
-Which may be younger than thou,
+Which may be younger than thou, <br>
 But he understands thine movie references.
 </p>
 
 <p>
 He programs AI at a Game Studio, <br>
-and is chiller than that Gibson, Antsnownio,
+and is chiller than that Gibson, Antsnownio, <br>
 for a draft order, he has no preferences. 
 </p>
 
