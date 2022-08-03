@@ -12,7 +12,7 @@ which may be younger than thou, <br>
 but he understands thine movie references. &#128253;
 
 
-He writes code for AI at a Game Studio, <br>
+He writes code for AI at a game studio, <br>
 but is chiller than that Gibson, Antsnownio, <br>
 for a draft order, he has no preferences. &#127847;
 
