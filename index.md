@@ -1,13 +1,24 @@
 ### A Brief Poem
 
 <p>
-He is a mere twenty-two now, <br>
-Which may be younger than thou
+To destroyeth a home league, <br>
+one needeth not be as cunning as thee.
+Listen now with great intrigue,
+as I tell you the legend of one who is _definitely_ not me.
+</p>
+
+--- 
+
+<p>
+That gent is a mere twenty-two now, <br>
+Which may be younger than thou,
+But he understands thine movie references.
 </p>
 
 <p>
 He programs AI at a Game Studio, <br>
-He is chiller than that Gibson, Antsnownio.
+and is chiller than that Gibson, Antsnownio,
+for a draft order, he has no preferences. 
 </p>
 
 <p>
