@@ -17,9 +17,9 @@ but is chiller than that Gibson, Antsnownio, &#127847;<br>
 for a draft order, he has no preferences. 
 
 The memes he doth provide to Slack, <br>
-are only rivaled by his famous Talk of the Smack, <br>
+are only rivaled by his famous Talk of the Smack, &#9997;<br>
 and his name is Tyler Hansen.
 
 Thou must be careful if he recieveth an invite, <br>
 because his fantasy teams have been known to fight, <br>
-and to the championship round he'll be dancin'. 
+and to the championship round he'll be dancin'. &#127926;
