@@ -9,11 +9,11 @@ as I tell you the legend of one who is _definitely_ not me.
 
 That gent is a mere twenty-two now, <br>
 which may be younger than thou, <br>
-but he understands thine movie references. :movie_camera:
+but he understands thine movie references. &#128253
 
 
 He programs AI at a Game Studio, <br>
-but is chiller than that Gibson, Antsnownio, :snowflake: <br>
+but is chiller than that Gibson, Antsnownio, &#127847 <br>
 for a draft order, he has no preferences. 
 
 The memes he doth provide to Slack, <br>
