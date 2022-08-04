@@ -1,7 +1,7 @@
 <audio
-  controls
+  autoplay loop id="myaudio"
   src="https://static1.squarespace.com/static/59dcec2112abd985b7417cbd/t/5ee8a7ef7507a723fc30e3b6/1592305677949/Tavern+Loop+One+-+320bit.mp3/original/Tavern+Loop+One+-+320bit.mp3">
-  Your browser does not support the audio element. Do better, 'ducers! 
+  This browser does not support the audio element that should be here for some DOPE music. Do better, 'ducers! 
 </audio>
 
 
